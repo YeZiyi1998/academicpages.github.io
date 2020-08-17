@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me: Ziyi ye（叶子逸）"
+title: "About me: Ziyi Ye（叶子逸）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
