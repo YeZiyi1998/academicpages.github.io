@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me: Ziyi ye（叶子逸）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ Chinese Search Engine Users. Poster. (***ASIST 2020***). [Dataset](http://www.th
 
 Projects
 ======
-We won the 1st place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes](https://thuyshao.github.io/files/THUIR_Legal_Notes_for_AILA_2019_new.pdf).
+* We won the 1st place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes](https://thuyshao.github.io/files/THUIR_Legal_Notes_for_AILA_2019_new.pdf).
 
 Datasets
 ======
