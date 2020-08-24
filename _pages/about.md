@@ -19,7 +19,7 @@ Publications
 ======
 
 * ***Ziyi Ye***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. Investigating COVID-19-Related Query Logs of 
-Chinese Search Engine Users. Poster. (***ASIST 2020***). [Dataset](http://www.thuir.cn/TianGong-CRL/). Preprint Version(To released).
+Chinese Search Engine Users. Poster. (***ASIS&T 2020***). [Dataset](http://www.thuir.cn/TianGong-CRL/). Preprint Version(To released).
 
 
 Projects
