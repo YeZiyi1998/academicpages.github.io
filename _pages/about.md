@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain search, user behavior analysis and etc.
+I am now a first year Ph.D. student in [THUIR](http://www.thuir.cn/), [Department of Computer Science and Technology in Tsinghua University](http://www.cs.tsinghua.edu.cn/), Beijing, China. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about domain search, user behavior analysis, brain machine interface for search and etc.
 
 Education
 ======
@@ -19,12 +19,16 @@ Publications
 ======
 
 * ***Ziyi Ye***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. Investigating COVID-19-Related Query Logs of 
-Chinese Search Engine Users. Poster. (***ASIS&T 2020***). [Dataset](http://www.thuir.cn/TianGong-CRL/). Preprint Version(To released).
+Chinese Search Engine Users. Poster. (**ASIS&T 2020**). [Dataset](http://www.thuir.cn/TianGong-CRL/). [Preprint Version](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.424).
 
+* Yunqiu Shao and ***Ziyi Ye***. THUIR@AILA 2019: Information Retrieval Approaches for Identifying Relevant Precedents and Statutes. (**FIRE 2019**). [Preprint Version](http://ceur-ws.org/Vol-2517/T1-8.pdf)
+
+* Jiayu Li, ***Ziyi Ye***, Weizhi Ma, Min Zhang, Yiqun Liu and Shaoping Ma. THUIR at the NTCIR-15 Micro-activity Retrieval Task. (**NCTIR 2020**). Preprint Version 
 
 Projects
 ======
-* We won the 1st place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes](https://thuyshao.github.io/files/THUIR_Legal_Notes_for_AILA_2019_new.pdf).
+* We won the 1st place in TASK 2 (Relevant Statue Retrieval Task) of AILA 2019 (Artificial Intelligence for Legal Assisstance). [Working Notes](http://ceur-ws.org/Vol-2517/T1-8.pdf).
+* We won the 1st place in the NTCIR-15 Micro-activity Retrieval Task. Working Notes.
 
 Datasets
 ======
