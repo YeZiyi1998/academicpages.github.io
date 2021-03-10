@@ -18,7 +18,7 @@ Education
 Publications
 ======
 
-* Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma. A Hybrid Framework for Session Context Modeling. ACM Transactions on Information Systems (TOIS).
+* Jia Chen, Jiaxin Mao, Yiqun Liu, ***Ziyi Ye***, Weizhi Ma, Chao Wang, Min Zhang and Shaoping Ma. A Hybrid Framework for Session Context Modeling. ACM Transactions on Information Systems (***TOIS***).
 
 * Jiayu Li, ***Ziyi Ye***, Weizhi Ma, Min Zhang, Yiqun Liu and Shaoping Ma. THUIR at the NTCIR-15 Micro-activity Retrieval Task. (**NCTIR 2020**). [Preprint Version](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings15/pdf/ntcir/06-NTCIR15-MART-LiJ.pdf). 
 
